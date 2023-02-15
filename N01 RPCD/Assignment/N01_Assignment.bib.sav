@@ -1,0 +1,236 @@
+@inproceedings{robbins1991historical,
+  title={An historical perspective of the NERVA nuclear rocket engine technology program},
+  author={Robbins, W},
+  booktitle={Conference on Advanced SEI Technologies},
+  pages={3451},
+  year={1991}
+}
+
+@article{mazzetti2019heat,
+  title={Heat to electricity conversion systems for moon exploration scenarios: A review of space and ground technologies},
+  author={Mazzetti, Alessandro and Pret, Marco Gianotti and Pinarello, Giordano and Celotti, Luca and Piskacev, Marko and Cowley, Aidan},
+  journal={Acta Astronautica},
+  volume={156},
+  pages={162--186},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{kaczmarzyk2021parametric,
+  title={Parametric study of a lunar base power systems},
+  author={Kaczmarzyk, Marcin and Musia{\l}, Micha{\l}},
+  journal={Energies},
+  volume={14},
+  number={4},
+  pages={1141},
+  year={2021},
+  publisher={MDPI}
+}
+
+@inproceedings{farbman1991upgraded,
+  title={Upgraded NERVA systems: Enabler nuclear system},
+  author={Farbman, Gerry},
+  booktitle={NASA. Lewis Research Center, Nuclear Thermal Propulsion: A Joint NASA (DOE) DOD Workshop},
+  year={1991}
+}
+
+@inproceedings{N12,
+  title={Initial Reactor Thermal Hydraulic Design},
+  author={Yuvraj Jain},
+  booktitle={N12 - Reactor Thermal Hydraulics Post Course Assignment},
+  year={2022}
+}
+
+@article{pelaccio1994review,
+  title={A review of nuclear thermal propulsion carbide fuel corrosion and key issues},
+  author={Pelaccio, Dennis G and El-Genk, Mohamed S},
+  year={1994}
+}
+
+@article{raj2015development,
+  title={Development of Advanced Coatings for NERVA-type Fuel Elements},
+  author={Raj, SV and Nesbitt, JA},
+  journal={NETS2015-5072, Nuclear and Emerging Technologies for Space (NETS)},
+  year={2015}
+}
+
+@techreport{little1964reactivity,
+  title={Reactivity changes during startup in large nuclear rockets},
+  author={Little Jr, WW},
+  year={1964}
+}
+
+@inproceedings{borowski2015affordable,
+  title={Affordable development and demonstration of a small NTR engine and stage: how small is big enough?},
+  author={Borowski, Stanley K and Sefcik, Robert J and Fittje, James E and McCurdy, David R and Qualls, Arthur L and Schnitzler, Bruce G and Werner, James and Weitzberg, Abe and Joyner, Claude R},
+  booktitle={AIAA SPACE 2015 Conference and Exposition},
+  pages={4524},
+  year={2015}
+}
+
+@misc{Nerva1967,
+  title={NERVA Program Summary Report No. 6 (1967)},
+  journal={NASA Technical Reports Server},
+  publisher={NASA},
+  url={https://ntrs.nasa.gov/citations/19680002492},
+  year={1967},
+  month={Sept}
+}
+
+@book{kendrick1972line,
+  title={On-line digital computer control of the NERVA nuclear rocket engine},
+  author={Kendrick, Larry Ellis},
+  year={1972},
+  publisher={The University of Arizona}
+}
+
+@techreport{marshall1993nuclear,
+  title={Nuclear safety policy working group recommendations on nuclear propulsion safety for the space exploration initiative},
+  author={Marshall, Albert C and Lee, James H and Mcculloch, William H and Sawyer Jr, J Charles and Bari, Robert A and Cullingford, Hatice S and Hardy, Alva C and Niederauer, George F and Remp, Kerry and Rice, John W},
+  year={1993}
+}
+
+@techreport{clark1993nuclear,
+  title={Nuclear thermal propulsion technology: Results of an interagency panel in FY 1991},
+  author={Clark, John S and Mcdaniel, Patrick and Howe, Steven and Helms, Ira and Stanley, Marland},
+  year={1993}
+}
+
+@article{milowicki2008strategic,
+  title={Strategic choices: examining the United States military response to the Chinese anti-satellite test},
+  author={Milowicki, Gene V and Johnson-Freese, Joan},
+  journal={Astropolitics},
+  volume={6},
+  number={1},
+  pages={1--21},
+  year={2008},
+  publisher={Taylor \& Francis}
+}
+
+@misc{NWFAQ,
+  title={Introduction to the Nuclear Weapons Archive},
+  url={https://nuclearweaponarchive.org/Nwfaq/Nfaq0.html},
+  journal={Nuclear Weapons Frequently Asked Questions - Introduction},
+  year={2019}
+}
+
+@misc{ONR,
+  title={2021 Annual Figures for Holdings of Civil Unirradiated Plutonium},
+  url={https://www.onr.org.uk/safeguards/civilplut21.htm},
+  journal={Office for Nuclear Regulation - United Kingdom},
+  year={2021}
+}
+
+@misc{skelly_2021,
+  title={Nuclear propulsion could help get humans to Mars faster},
+  url={https://www.nasa.gov/directorates/spacetech/nuclear-propulsion-could-help-get-humans-to-mars-faster},
+  journal={NASA},
+  publisher={NASA},
+  author={Skelly, Clare},
+  year={2021},
+  month={Feb}
+}
+
+@misc{nasantrs_1992,
+  title={Near-term nuclear propulsion FY92 Final Review - NASA},
+  url={https://ntrs.nasa.gov/api/citations/19930017729/downloads/19930017729.pdf},
+  journal={NASA NTRS},
+  publisher={NASA},
+  year={1992},
+  month={Oct}
+}
+
+@misc{wikipedia_RS25,
+  title={RS-25},
+  url={https://en.wikipedia.org/wiki/RS-25},
+  journal={Wikipedia},
+  publisher={Wikimedia Foundation},
+  year={2023},
+  month={Jan}
+}
+
+@misc{IAEA,
+  title={IAEA 2017 Neutron Data Standards in Table Format},
+  url={https://www-nds.iaea.org/standards/references/235U_nf_Reference_xs_data.txt},
+  journal={IAEA Nuclear Data Services},
+  publisher={IAEA},
+  year={2018}
+}
+
+@article{wang2013thermal,
+  title={Thermal Hydraulics Design and Analysis Methodology for a Solid-Core Nuclear Thermal Rocket Engine Thrust Chamber},
+  author={Wang, Ten-See and Canabal, Francisco and Chen, Yen-Sen and Cheng, Gary and Ito, Yasushi},
+  journal={Nuclear Reactor Thermal Hydraulics and Other Applications},
+  pages={107},
+  year={2013}
+}
+
+@article{chen2019fabrication,
+  title={Fabrication and optical properties of highly transparent MgO ceramics by spark plasma sintering},
+  author={Chen, Xianqiang and Wu, Yiquan},
+  journal={Scripta Materialia},
+  volume={162},
+  pages={14--17},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{hofmeister2014thermal,
+  title={Thermal diffusivity and thermal conductivity of single-crystal MgO and Al2O3 and related compounds as a function of temperature},
+  author={Hofmeister, Anne M},
+  journal={Physics and Chemistry of Minerals},
+  volume={41},
+  number={5},
+  pages={361--371},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{himpel2015comparison,
+  title={Comparison of the high-temperature corrosion of aluminium nitride, alumina, magnesia and zirconia ceramics by coal ashes},
+  author={Himpel, Gert and Herrmann, Mathias and H{\"o}hn, S{\"o}ren},
+  journal={Ceramics International},
+  volume={41},
+  number={7},
+  pages={8288--8298},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{kobayashi1990ab,
+  title={Ab initio MO study on adsorption of a hydrogen molecule onto magnesium oxide (100) surface},
+  author={Kobayashi, Hisayoshi and Yamaguchi, Masaru and Ito, Tomoyasu},
+  journal={Journal of physical chemistry},
+  volume={94},
+  number={18},
+  pages={7206--7213},
+  year={1990},
+  publisher={ACS Publications}
+}
+
+@misc{wikipedia_U,
+  title={Uranium},
+  url={https://en.wikipedia.org/wiki/Uranium},
+  journal={Wikipedia},
+  publisher={Wikimedia Foundation},
+  year={2023},
+  month={Jan}
+}
+
+@article{unnikrishnan2022review,
+  title={A review of cooling technologies for high temperature rotating components in gas turbine},
+  author={Unnikrishnan, Umesh and Yang, Vigor},
+  journal={Propulsion and Power Research},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@misc{bardan_2023,
+  title={NASA, DARPA will test nuclear engine for future Mars Missions},
+  url={https://www.nasa.gov/press-release/nasa-darpa-will-test-nuclear-engine-for-future-mars-missions},
+  journal={NASA},
+  publisher={NASA},
+  author={Bardan, Roxana},
+  year={2023},
+  month={Jan}
+}
